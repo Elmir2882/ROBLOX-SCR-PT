@@ -1,5 +1,3 @@
-# ROBLOX-SCR-PT
-1
 local p=game.Players.LocalPlayer
 local rs=game:GetService("RunService")
 
